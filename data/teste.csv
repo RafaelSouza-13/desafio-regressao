@@ -1,0 +1,2 @@
+latitude,longitude,minimum_nights,number_of_reviews,reviews_per_month,calculated_host_listings_count,availability_365,neighborhood_group_encode,room_type_encode,neighborhood_encode
+40.75362, -73.98377, 1, 45, 0.38, 2, 355, 2, 0, 127
